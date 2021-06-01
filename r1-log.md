@@ -1,10 +1,8 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Neelesh Thakur
 
 The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+Solved B - I Hate 1111, B - Sifid and Strange Subsequences, A - Eshag Loves Big Arrays from codeforces 
