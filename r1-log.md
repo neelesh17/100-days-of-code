@@ -10,3 +10,5 @@ Solved I Hate 1111, Sifid and Strange Subsequences, Eshag Loves Big Arrays from 
 Solved Potion-making, Permutation Sort, Mean Inequality from codeforces 
 ### R1D3 
 Solved Game of Life, Nastia and Nearly Good Numbers from codeforces 
+### R1D4 
+Solved 	ZigZag Conversion , Reverse Integer, String to Integer (atoi), Palindrome Number Regular Expression Matching from leetcode 

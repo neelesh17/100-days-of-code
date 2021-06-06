@@ -31,3 +31,16 @@
 **Link to work:** 
 1. [Game of Life](https://codeforces.com/problemset/submission/1523/118251253)
 2. [Nastia and Nearly Good Numbers](https://codeforces.com/problemset/submission/1521/118257086)
+
+### Day 3: July 5, 2021
+
+**Today's Progress**: Solved ZigZag Conversion , Reverse Integer, String to Integer (atoi), Palindrome Number, Regular Expression Matching from leetcode 
+
+**Thoughts:** I learned dynamic programming top to bottom and bottom to top  approach for solving regural expression matching
+
+**Link to work:** 
+1. [ZigZag Conversion](https://leetcode.com/submissions/detail/503297249/) 
+2. [Reverse Integer](https://leetcode.com/submissions/detail/503301540/) 
+3. [String to Integer (atoi)](https://leetcode.com/submissions/detail/503332465/) 
+4. [Palindrome Number](https://leetcode.com/submissions/detail/503333590/) 
+5. [Regular Expression Matching](https://leetcode.com/submissions/detail/503345808/)
