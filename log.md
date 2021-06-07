@@ -56,3 +56,16 @@
 2. [Integer to Roman](https://leetcode.com/submissions/detail/503866113/) 
 3. [Roman to Integer](https://leetcode.com/submissions/detail/503869664/) 
 4. [Longest Common Prefix](https://leetcode.com/submissions/detail/503875658/)
+
+### Day 6: July 7, 2021
+
+**Today's Progress**: Solved 3Sum, 3Sum Closest, Letter Combinations of a Phone Number, 4Sum, Remove Nth Node From End of List from leetcode 
+
+**Thoughts:** Today , I learned to solve kSum and also Nth node from the end problems 
+
+**Link to work:** 
+1. [3Sum](https://leetcode.com/submissions/detail/504356958/) 
+2. [3Sum Closest](https://leetcode.com/submissions/detail/504362282/)
+3. [Letter Combinations of a Phone Number](https://leetcode.com/submissions/detail/504363613/)
+4. [4Sum](https://leetcode.com/submissions/detail/504370364/) 
+5. [Remove Nth Node From End of List](https://leetcode.com/submissions/detail/504381982/)

@@ -14,3 +14,5 @@ Solved Game of Life, Nastia and Nearly Good Numbers from codeforces
 Solved 	ZigZag Conversion , Reverse Integer, String to Integer (atoi), Palindrome Number, Regular Expression Matching from leetcode 
 ### R1D5 
 Solved 	Container With Most Water , Integer to Roman, Roman to Integer, Longest Common Prefix from leetcode 
+### R1D6 
+Solved 	3Sum, 3Sum Closest, Letter Combinations of a Phone Number, 4Sum, Remove Nth Node From End of List from leetcode 
