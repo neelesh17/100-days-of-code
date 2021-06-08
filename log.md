@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: July 1, 2021
+### Day 1: June 1, 2021
 
 **Today's Progress**: Solved B - I Hate 1111, B - Sifid and Strange Subsequences, A - Eshag Loves Big Arrays from codeforces 
 
@@ -11,7 +11,7 @@
 2. [B. I Hate 1111](https://codeforces.com/contest/1526/submission/118086500)
 3. [B. Sifid and Strange Subsequences](https://codeforces.com/contest/1529/submission/118083980)
 
-### Day 2: July 2, 2021
+### Day 2: June 2, 2021
 
 **Today's Progress**: Solved  Potion-making, Permutation Sort, Mean Inequality from codeforces 
 
@@ -22,7 +22,7 @@
 2. [Permutation Sort](https://codeforces.com/contest/1525/submission/118177481)
 3. [Mean Inequality](https://codeforces.com/contest/1526/submission/118176884)
 
-### Day 3: July 3, 2021
+### Day 3: June 3, 2021
 
 **Today's Progress**: Solved  Game of Life, Nastia and Nearly Good Numbers from codeforces 
 
@@ -32,7 +32,7 @@
 1. [Game of Life](https://codeforces.com/problemset/submission/1523/118251253)
 2. [Nastia and Nearly Good Numbers](https://codeforces.com/problemset/submission/1521/118257086)
 
-### Day 4: July 5, 2021
+### Day 4: June 5, 2021
 
 **Today's Progress**: Solved ZigZag Conversion , Reverse Integer, String to Integer (atoi), Palindrome Number, Regular Expression Matching from leetcode 
 
@@ -45,7 +45,7 @@
 4. [Palindrome Number](https://leetcode.com/submissions/detail/503333590/) 
 5. [Regular Expression Matching](https://leetcode.com/submissions/detail/503345808/)
 
-### Day 5: July 6, 2021
+### Day 5: June 6, 2021
 
 **Today's Progress**: Solved Container With Most Water, Integer to Roman, Roman to Integer, Longest Common Prefix from leetcode 
 
@@ -57,7 +57,7 @@
 3. [Roman to Integer](https://leetcode.com/submissions/detail/503869664/) 
 4. [Longest Common Prefix](https://leetcode.com/submissions/detail/503875658/)
 
-### Day 6: July 7, 2021
+### Day 6: June 7, 2021
 
 **Today's Progress**: Solved 3Sum, 3Sum Closest, Letter Combinations of a Phone Number, 4Sum, Remove Nth Node From End of List from leetcode 
 
@@ -70,7 +70,7 @@
 4. [4Sum](https://leetcode.com/submissions/detail/504370364/) 
 5. [Remove Nth Node From End of List](https://leetcode.com/submissions/detail/504381982/)
 
-### Day 7: July 8, 2021
+### Day 7: June 8, 2021
 
 **Today's Progress**: Solved Valid Parentheses, Merge Two Sorted Lists, Generate Parentheses , Merge k Sorted Lists, Swap Nodes in Pairs from leetcode  
 
@@ -82,3 +82,4 @@
 3. [Generate Parentheses](https://leetcode.com/submissions/detail/504801588/)    			
 4. [Merge k Sorted Lists](https://leetcode.com/submissions/detail/504804452/)    	
 5. [Swap Nodes in Pairs ](https://leetcode.com/submissions/detail/504808837/) 
+6. [Reverse Nodes in k-Group](https://leetcode.com/submissions/detail/504834420/)

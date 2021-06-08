@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Neelesh Thakur
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [June 1, Monday, 2021].
 
 ## Log
 
@@ -17,4 +17,4 @@ Solved 	Container With Most Water , Integer to Roman, Roman to Integer, Longest 
 ### R1D6 
 Solved 	3Sum, 3Sum Closest, Letter Combinations of a Phone Number, 4Sum, Remove Nth Node From End of List from leetcode 
 ### R1D7 
-Solved 	Valid Parentheses, Merge Two Sorted Lists, Generate Parentheses , Merge k Sorted Lists, Swap Nodes in Pairs from leetcode 
+Solved 	Valid Parentheses, Merge Two Sorted Lists, Generate Parentheses , Merge k Sorted Lists, Swap Nodes in Pairs, Reverse Nodes in k-Group from leetcode 
