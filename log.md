@@ -69,3 +69,16 @@
 3. [Letter Combinations of a Phone Number](https://leetcode.com/submissions/detail/504363613/)
 4. [4Sum](https://leetcode.com/submissions/detail/504370364/) 
 5. [Remove Nth Node From End of List](https://leetcode.com/submissions/detail/504381982/)
+
+### Day 7: July 8, 2021
+
+**Today's Progress**: Solved Valid Parentheses, Merge Two Sorted Lists, Generate Parentheses , Merge k Sorted Lists, Swap Nodes in Pairs from leetcode  
+
+**Thoughts:** Today , I learned that if we have to swap the node values in pairs we should not touch the pointers instead just swap the values 
+
+**Link to work:** 
+1. [Valid Parentheses](https://leetcode.com/submissions/detail/504793732/)    	
+2. [Merge Two Sorted Lists](https://leetcode.com/submissions/detail/504798522/)    	
+3. [Generate Parentheses](https://leetcode.com/submissions/detail/504801588/)    			
+4. [Merge k Sorted Lists](https://leetcode.com/submissions/detail/504804452/)    	
+5. [Swap Nodes in Pairs ](https://leetcode.com/submissions/detail/504808837/) 
