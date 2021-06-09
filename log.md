@@ -72,7 +72,7 @@
 
 ### Day 7: June 8, 2021
 
-**Today's Progress**: Solved Valid Parentheses, Merge Two Sorted Lists, Generate Parentheses , Merge k Sorted Lists, Swap Nodes in Pairs from leetcode  
+**Today's Progress**: Solved Valid Parentheses, Merge Two Sorted Lists, Generate Parentheses , Merge k Sorted Lists, Swap Nodes in Pairs, Reverse Nodes in k-Group from leetcode  
 
 **Thoughts:** Today , I learned that if we have to swap the node values in pairs we should not touch the pointers instead just swap the values 
 
@@ -83,3 +83,17 @@
 4. [Merge k Sorted Lists](https://leetcode.com/submissions/detail/504804452/)    	
 5. [Swap Nodes in Pairs ](https://leetcode.com/submissions/detail/504808837/) 
 6. [Reverse Nodes in k-Group](https://leetcode.com/submissions/detail/504834420/)
+
+### Day 8: June 9, 2021
+
+**Today's Progress**: Solved Remove Duplicates from Sorted Array, Remove Element, Implement strStr(), Divide Two Integers, Substring with Concatenation of All Words, Next Permutation from leetcode  
+
+**Thoughts:** Today , I learned about permutation and combination and applied it in code
+
+**Link to work:** 
+1. [Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/505286998/)
+2. [Remove Element](https://leetcode.com/submissions/detail/505290407/)
+3. [Implement strStr()](https://leetcode.com/submissions/detail/505292065/)
+4. [Divide Two Integers](https://leetcode.com/submissions/detail/505300707/)
+5. [Substring with Concatenation of All Words](https://leetcode.com/submissions/detail/505305895/)
+6. [Next Permutation](https://leetcode.com/submissions/detail/505311664/) 

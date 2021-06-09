@@ -18,3 +18,5 @@ Solved 	Container With Most Water , Integer to Roman, Roman to Integer, Longest 
 Solved 	3Sum, 3Sum Closest, Letter Combinations of a Phone Number, 4Sum, Remove Nth Node From End of List from leetcode 
 ### R1D7 
 Solved 	Valid Parentheses, Merge Two Sorted Lists, Generate Parentheses , Merge k Sorted Lists, Swap Nodes in Pairs, Reverse Nodes in k-Group from leetcode 
+### R1D8 
+Solved 	Remove Duplicates from Sorted Array, Remove Element, Implement strStr(), Divide Two Integers  , Substring with Concatenation of All Words, Next Permutation from leetcode 
