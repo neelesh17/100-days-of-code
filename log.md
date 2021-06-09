@@ -84,7 +84,7 @@
 5. [Swap Nodes in Pairs ](https://leetcode.com/submissions/detail/504808837/) 
 6. [Reverse Nodes in k-Group](https://leetcode.com/submissions/detail/504834420/)
 
-### Day 8: June 9, 2021
+### Day 8: June  9, 2021
 
 **Today's Progress**: Solved Remove Duplicates from Sorted Array, Remove Element, Implement strStr(), Divide Two Integers, Substring with Concatenation of All Words, Next Permutation from leetcode  
 
