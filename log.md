@@ -97,3 +97,16 @@
 4. [Divide Two Integers](https://leetcode.com/submissions/detail/505300707/)
 5. [Substring with Concatenation of All Words](https://leetcode.com/submissions/detail/505305895/)
 6. [Next Permutation](https://leetcode.com/submissions/detail/505311664/) 
+
+### Day 9: June  11, 2021
+
+**Today's Progress**: Solved Search in Rotated Sorted Array, Find First and Last Position of Element in Sorted Array, Search Insert Position, Valid Sudoku, Sudoku Solver  leetcode
+
+**Thoughts:** Today , I learned backtracking to make a sudoku solver
+
+**Link to work:** 
+1. [Search in Rotated Sorted Array](https://leetcode.com/submissions/detail/506361545/)
+2. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/submissions/detail/506364151/)
+3. [Search Insert Position](https://leetcode.com/submissions/detail/506365875/)
+4. [Valid Sudoku](https://leetcode.com/submissions/detail/506367596/)
+5. [Sudoku Solver](https://leetcode.com/submissions/detail/506371442/)
