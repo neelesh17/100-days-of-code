@@ -22,3 +22,5 @@ Solved 	Valid Parentheses, Merge Two Sorted Lists, Generate Parentheses , Merge 
 Solved 	Remove Duplicates from Sorted Array, Remove Element, Implement strStr(), Divide Two Integers  , Substring with Concatenation of All Words, Next Permutation from leetcode 
 ### R1D9
 Solved 	Search in Rotated Sorted Array, Find First and Last Position of Element in Sorted Array, Search Insert Position, Valid Sudoku, Sudoku Solver  leetcode
+### R1D10
+Solved 	Count and Say, Combination Sum, Combination Sum II, First Missing Positive leetcode

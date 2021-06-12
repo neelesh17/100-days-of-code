@@ -110,3 +110,15 @@
 3. [Search Insert Position](https://leetcode.com/submissions/detail/506365875/)
 4. [Valid Sudoku](https://leetcode.com/submissions/detail/506367596/)
 5. [Sudoku Solver](https://leetcode.com/submissions/detail/506371442/)
+
+### Day 10: June  12, 2021
+
+**Today's Progress**: Solved Count and Say, Combination Sum, Combination Sum II, First Missing Positive leetcode
+
+**Thoughts:** Today , I learned to use dfs
+
+**Link to work:** 
+1. [Count and Say](https://leetcode.com/submissions/detail/506657738/)
+2. [Combination Sum](https://leetcode.com/submissions/detail/506663182/)
+3. [Combination Sum II](https://leetcode.com/submissions/detail/506678365/)
+4. [First Missing Positive](https://leetcode.com/submissions/detail/506681425/) 
