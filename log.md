@@ -122,3 +122,19 @@
 2. [Combination Sum](https://leetcode.com/submissions/detail/506663182/)
 3. [Combination Sum II](https://leetcode.com/submissions/detail/506678365/)
 4. [First Missing Positive](https://leetcode.com/submissions/detail/506681425/) 
+
+### Day 11: June  13, 2021
+
+**Today's Progress**: Solved Rotate List, Remove Duplicates from Sorted List II, Remove Duplicates from Sorted List,Partition List, Reverse Linked List II, Convert Sorted List to Binary Search Tree, Linked List Cycle, Linked List Cycle II from leetcode
+
+**Thoughts:** Today , I have decided to solve problems related to a specific today from today on wards instead of solving random problems, so today i solve problems based on linked list.
+
+**Link to work:** 
+1. [Rotate List](https://leetcode.com/submissions/detail/507239643/)
+2. [Remove Duplicates from Sorted List II](https://leetcode.com/submissions/detail/507246074/)
+3. [Remove Duplicates from Sorted List](https://leetcode.com/submissions/detail/507247741/)
+4. [Partition List](https://leetcode.com/submissions/detail/507249683/) 
+5. [Reverse Linked List II](https://leetcode.com/submissions/detail/507253004/) 
+6. [Convert Sorted List to Binary Search Tree](https://leetcode.com/submissions/detail/507256138/) 
+7. [Linked List Cycle](https://leetcode.com/submissions/detail/507257453/) 
+8. [Linked List Cycle II](https://leetcode.com/submissions/detail/507258853/) 
