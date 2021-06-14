@@ -138,3 +138,19 @@
 6. [Convert Sorted List to Binary Search Tree](https://leetcode.com/submissions/detail/507256138/) 
 7. [Linked List Cycle](https://leetcode.com/submissions/detail/507257453/) 
 8. [Linked List Cycle II](https://leetcode.com/submissions/detail/507258853/) 
+
+### Day 12: June  14, 2021
+
+**Today's Progress**: Solved Pow(x, n), Sqrt(x), Search a 2D Matrix, Search in Rotated Sorted Array II, Find Minimum in Rotated Sorted Array, Find Minimum in Rotated Sorted Array II, Find Peak Element, Two Sum II - Input array is sorted from leetcode
+
+**Thoughts:** Today , I have decided to take on binary search questions.
+
+**Link to work:** 
+1. [Pow(x, n)](https://leetcode.com/submissions/detail/507597881/)
+2. [Sqrt(x)](https://leetcode.com/submissions/detail/507599852/)
+3. [Search a 2D Matrix](https://leetcode.com/submissions/detail/507603669/)
+4. [Search in Rotated Sorted Array II](https://leetcode.com/submissions/detail/507606379/)
+5. [Find Minimum in Rotated Sorted Array](https://leetcode.com/submissions/detail/507609774/) 
+6. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/submissions/detail/507613168/)
+7. [Find Peak Element](https://leetcode.com/submissions/detail/507618090/)
+8. [Two Sum II - Input array is sorted](https://leetcode.com/submissions/detail/507619283/) 
