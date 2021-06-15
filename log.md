@@ -154,3 +154,15 @@
 6. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/submissions/detail/507613168/)
 7. [Find Peak Element](https://leetcode.com/submissions/detail/507618090/)
 8. [Two Sum II - Input array is sorted](https://leetcode.com/submissions/detail/507619283/) 
+
+### Day 13: June  15, 2021
+
+**Today's Progress**: Solved Group Anagrams, Minimum Window Substring, Binary Tree Inorder Traversal, Single Number, Max Points on a Line from leetcode
+**Thoughts:** Today , I have decided to take on Hash Table questions.
+
+**Link to work:** 
+1. [Group Anagrams](https://leetcode.com/submissions/detail/508100478/)
+2. [Minimum Window Substring](https://leetcode.com/submissions/detail/508103934/)
+3. [Binary Tree Inorder Traversal](https://leetcode.com/submissions/detail/508110218/)
+4. [Single Number](https://leetcode.com/submissions/detail/508111730/)
+5. [Max Points on a Line](https://leetcode.com/submissions/detail/508123699/)

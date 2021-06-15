@@ -28,3 +28,5 @@ Solved 	Count and Say, Combination Sum, Combination Sum II, First Missing Positi
 Solved 	Rotate List, Remove Duplicates from Sorted List II, Remove Duplicates from Sorted List,Partition List, Reverse Linked List II, Convert Sorted List to Binary Search Tree, Linked List Cycle, Linked List Cycle II from leetcode
 ### R1D12
 Solved 	Pow(x, n), Sqrt(x), Search a 2D Matrix, Search in Rotated Sorted Array II, Find Minimum in Rotated Sorted Array, Find Minimum in Rotated Sorted Array II, Find Peak Element, Two Sum II - Input array is sorted from leetcode
+### R1D13
+Solved Group Anagrams, Minimum Window Substring, Binary Tree Inorder Traversal, Single Number, Max Points on a Line from leetcode
