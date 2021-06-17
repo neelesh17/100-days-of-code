@@ -166,3 +166,24 @@
 3. [Binary Tree Inorder Traversal](https://leetcode.com/submissions/detail/508110218/)
 4. [Single Number](https://leetcode.com/submissions/detail/508111730/)
 5. [Max Points on a Line](https://leetcode.com/submissions/detail/508123699/)
+
+### Day 14: June  16, 2021
+
+**Today's Progress**: Solved Maximum Subarray, Majority Element, Kth Largest Element in an Array from leetcode
+**Thoughts:** Today , I worked on divide and conquer problems
+
+**Link to work:** 
+1. [Maximum Subarray](https://leetcode.com/submissions/detail/508638638/)
+2. [Majority Element](https://leetcode.com/submissions/detail/508640528/)
+3. [Kth Largest Element](https://leetcode.com/submissions/detail/508646279/)
+
+### Day 15: June  17, 2021
+
+**Today's Progress**: Solved The Skyline Problem, Search a 2D Matrix II, Different Ways to Add Parentheses, Expression Add Operators leetcode
+**Thoughts:** Today, I again worked on divide and conquer problems
+
+**Link to work:** 
+1. [The Skyline Problem](https://leetcode.com/submissions/detail/509115121/)
+2. [Search a 2D Matrix II](https://leetcode.com/submissions/detail/509118683/)
+3. [Different Ways to Add Parentheses](https://leetcode.com/submissions/detail/509122672/)
+4. [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)

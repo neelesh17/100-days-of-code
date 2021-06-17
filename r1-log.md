@@ -30,3 +30,7 @@ Solved 	Rotate List, Remove Duplicates from Sorted List II, Remove Duplicates fr
 Solved 	Pow(x, n), Sqrt(x), Search a 2D Matrix, Search in Rotated Sorted Array II, Find Minimum in Rotated Sorted Array, Find Minimum in Rotated Sorted Array II, Find Peak Element, Two Sum II - Input array is sorted from leetcode
 ### R1D13
 Solved Group Anagrams, Minimum Window Substring, Binary Tree Inorder Traversal, Single Number, Max Points on a Line from leetcode
+### R1D14
+Solved Maximum Subarray, Majority Element, Kth Largest Element in an Array from leetcode
+### R1D15
+Solved The Skyline Problem, Search a 2D Matrix II, Different Ways to Add Parentheses, Expression Add Operators leetcode
